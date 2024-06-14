@@ -1,0 +1,15 @@
+.login-form{
+    color:rgb(234, 234, 234);
+    margin: 1rem .5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.login-input{
+    padding: 10px;
+}
+.login-btn{
+    width: 100%;
+    border-radius: 5px;
+    padding: 6px 0rem;
+}
